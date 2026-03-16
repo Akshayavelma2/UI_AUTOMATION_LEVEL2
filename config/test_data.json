@@ -1,0 +1,19 @@
+{
+  "invalid_login_matrix": [
+    {
+      "email": "admin@example.com",
+      "password": "WrongPass123",
+      "expected_error": "invalid"
+    },
+    {
+      "email": "invalid-email-format",
+      "password": "Admin@123",
+      "expected_error": "validation"
+    },
+    {
+      "email": "",
+      "password": "",
+      "expected_error": "required"
+    }
+  ]
+}

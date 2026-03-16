@@ -1,0 +1,4 @@
+[32mINFO    [0m ui_automation:conftest.py:23 Starting remote browser session
+[32mINFO    [0m ui_automation:test_auth.py:19 Opening login page
+[32mINFO    [0m ui_automation:test_auth.py:22 Logging in with demo admin button
+[32mINFO    [0m ui_automation:conftest.py:26 Closing browser session

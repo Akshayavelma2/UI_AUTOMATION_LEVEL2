@@ -1,0 +1,3 @@
+[32mINFO    [0m ui_automation:conftest.py:23 Starting remote browser session
+[32mINFO    [0m ui_automation:test_projects_tasks.py:57 Updating first available task status to in_progress
+[32mINFO    [0m ui_automation:conftest.py:26 Closing browser session

@@ -1,0 +1,30 @@
+2026-03-13 12:32:48,593 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:32:48,593 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:32:48,595 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:32:55,142 | INFO | ui_automation | Opening login page
+2026-03-13 12:32:57,922 | INFO | ui_automation | Logging in with demo admin button
+2026-03-13 12:33:01,549 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:01,874 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:03,578 | INFO | ui_automation | Opening login page
+2026-03-13 12:33:08,118 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:08,387 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:15,271 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:15,644 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:16,713 | INFO | ui_automation | Login as normal user
+2026-03-13 12:33:24,340 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:24,532 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:24,636 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:24,910 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:25,924 | INFO | ui_automation | Opening login page
+2026-03-13 12:33:28,772 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:28,907 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:29,784 | INFO | ui_automation | Opening login page
+2026-03-13 12:33:32,067 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:46,945 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:47,198 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:49,905 | INFO | ui_automation | Closing browser session
+2026-03-13 12:33:50,116 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:33:51,568 | INFO | ui_automation | Closing browser session
+2026-03-13 12:34:08,705 | INFO | ui_automation | Closing browser session
+2026-03-13 12:34:08,878 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:34:30,676 | INFO | ui_automation | Closing browser session

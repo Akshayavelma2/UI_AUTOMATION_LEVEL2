@@ -1,0 +1,4 @@
+[32mINFO    [0m ui_automation:conftest.py:23 Starting remote browser session
+[32mINFO    [0m ui_automation:test_projects_tasks.py:20 Opening Projects module
+[32mINFO    [0m ui_automation:test_projects_tasks.py:23 Validating Projects page loaded
+[32mINFO    [0m ui_automation:conftest.py:26 Closing browser session

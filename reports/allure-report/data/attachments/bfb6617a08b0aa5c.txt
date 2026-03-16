@@ -1,0 +1,4 @@
+[32mINFO    [0m ui_automation:conftest.py:23 Starting remote browser session
+[32mINFO    [0m ui_automation:test_dashboard.py:19 Login as admin
+[32mINFO    [0m ui_automation:test_dashboard.py:23 Open Users module
+[32mINFO    [0m ui_automation:conftest.py:26 Closing browser session

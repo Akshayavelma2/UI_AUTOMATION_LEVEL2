@@ -1,0 +1,4 @@
+2026-03-13 12:24:31,649 | INFO | ui_automation | Starting remote browser session
+2026-03-13 12:24:32,748 | INFO | ui_automation | Login as normal user
+2026-03-13 12:24:34,057 | INFO | ui_automation | Attempt to open Users page
+2026-03-13 12:24:52,010 | INFO | ui_automation | Closing browser session

@@ -1,0 +1,5 @@
+
+===== PROJECTS PAGE URL =====
+https://react-frontend-api-testing.vercel.app/projects
+
+Saved: reports/debug_html/projects_page_source.html

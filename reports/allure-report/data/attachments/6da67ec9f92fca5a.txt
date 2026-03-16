@@ -1,0 +1,4 @@
+2026-03-13 14:21:12,947 | INFO | ui_automation | Starting remote browser session
+2026-03-13 14:21:14,250 | INFO | ui_automation | Opening login page
+2026-03-13 14:21:14,867 | INFO | ui_automation | Logging in with demo admin button
+2026-03-13 14:21:18,144 | INFO | ui_automation | Closing browser session

@@ -1,0 +1,2 @@
+2026-03-13 13:49:40,038 | INFO | ui_automation | Starting remote browser session
+2026-03-13 13:49:53,177 | INFO | ui_automation | Closing browser session

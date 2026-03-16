@@ -1,0 +1,13 @@
+2026-03-13 11:49:12,061 | INFO | ui_automation | Starting remote browser session
+2026-03-13 11:49:15,348 | INFO | ui_automation | Opening login page
+2026-03-13 11:49:16,271 | INFO | ui_automation | Logging in as admin
+2026-03-13 11:49:34,242 | INFO | ui_automation | Closing browser session
+2026-03-13 11:49:34,468 | INFO | ui_automation | Starting remote browser session
+2026-03-13 11:49:35,945 | INFO | ui_automation | Opening login page for invalid login scenario
+2026-03-13 11:49:53,657 | INFO | ui_automation | Closing browser session
+2026-03-13 11:49:53,909 | INFO | ui_automation | Starting remote browser session
+2026-03-13 11:49:55,637 | INFO | ui_automation | Opening login page for invalid login scenario
+2026-03-13 11:50:13,546 | INFO | ui_automation | Closing browser session
+2026-03-13 11:50:13,774 | INFO | ui_automation | Starting remote browser session
+2026-03-13 11:50:15,010 | INFO | ui_automation | Opening login page for invalid login scenario
+2026-03-13 11:50:34,366 | INFO | ui_automation | Closing browser session

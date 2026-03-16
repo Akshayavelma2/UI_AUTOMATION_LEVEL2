@@ -1,0 +1,21 @@
+
+===== PROJECTS URL =====
+https://react-frontend-api-testing.vercel.app/projects
+
+===== PROJECTS BUTTONS =====
+1. text='' type='submit' class='btn btn-sm btn-outline-light'
+2. text='' type='button' class='navbar-toggler collapsed'
+3. text='New Project' type='button' class='btn btn-primary'
+4. text='Filter' type='submit' class='w-100 btn btn-dark'
+
+===== PROJECTS INPUTS =====
+1. type='text' name='' id='' placeholder='Search title or description'
+
+===== PROJECTS TEXTAREAS =====
+
+===== PROJECTS SELECTS =====
+1. name='' id='' class='form-select'
+
+===== PROJECTS HEADINGS =====
+1. 'API Backend'
+2. 'Projects'
